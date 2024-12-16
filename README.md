@@ -7,7 +7,7 @@ import numpy as np
     # Parameters
 width, height = 1280, 720
 gestureThreshold = 300
-folderPath = r"C:\Users\hp\Downloads\ilovepdf_pages-to-jpg (1)"
+folderPath = r"Sourse of the path"
 
     # Camera Setup
 cap = cv2.VideoCapture(0)
